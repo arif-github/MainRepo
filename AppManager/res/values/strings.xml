@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppManager</string>
+    <string name="activity_sample_device_admin">Hello world!</string>
+    <string name="sample_device_admin_description">Hello world!</string>
+    <string name="sample_device_admin">Hello world!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="admin_receiver_status">Hello world!</string>
+    <string name="permission">android.permission.CHANGE_COMPONENT_ENABLED_STATE</string>
+
+</resources>
